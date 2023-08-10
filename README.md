@@ -6,12 +6,6 @@ Este proyecto presenta un slider interactivo que permite mostrar contenido de ma
 
 El slider es una herramienta esencial para exhibir contenido visual de manera interactiva. Con este proyecto, puedes crear un slider personalizable y adaptable para resaltar tu contenido de manera efectiva.
 
-## Tecnologías Utilizadas
-
-El slider ha sido construido utilizando las siguientes tecnologías:
-
-- ![html-5--v1](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/4d1c653a-1d4b-4f07-9479-d4e03fbffd86) ![css3](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/687eab3e-adf9-4916-a6e3-916a73059d9b) ![javascript--v1](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/b64e9b85-0c13-4383-ac7e-ad89c0acd799)
-
 ## Estructura Básica del Slider
 
 El siguiente código HTML muestra la estructura básica del slider:
@@ -98,7 +92,13 @@ en el archivo main.mjs importa la ruta donde se encuentra el archivo de la naveg
 
 -De lo contrario deje la estructura basica y los archivos tal cual. El css puede ser modificado a su gusto solo se implemento un diseño basico para que el slider funcione.
 
-![html-5--v1](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/5044d51d-465a-4443-842d-aa97d2ae2289)
+
+## Tecnologías Utilizadas
+
+El slider ha sido construido utilizando las siguientes tecnologías:
+
+![html-5--v1](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/4d1c653a-1d4b-4f07-9479-d4e03fbffd86) ![css3](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/687eab3e-adf9-4916-a6e3-916a73059d9b) ![javascript--v1](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/b64e9b85-0c13-4383-ac7e-ad89c0acd799)
+
 
 
 
