@@ -25,4 +25,4 @@ El siguiente código HTML muestra la estructura básica del slider:
 </div>
 ```
 
-- &bull;
+-
