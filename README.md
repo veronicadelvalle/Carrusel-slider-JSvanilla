@@ -2,7 +2,7 @@
 
 ![Muestra de slider](./public/tommy!.png)
 
-Proyecto desarrollado por [Verónica Del Valle]([enlace-a-tu-perfil-o-sitio-web](https://www.linkedin.com/in/vernica-valle/)) como parte del proyecto Carrusel Slider Interactivo.
+Proyecto desarrollado por [Verónica Del Valle](https://www.linkedin.com/in/vernica-valle/) como parte del proyecto Carrusel Slider Interactivo.
 
 ## Instrucciones de Uso
 
