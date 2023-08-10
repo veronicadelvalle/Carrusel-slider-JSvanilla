@@ -6,6 +6,7 @@ Este readme proporciona una guía básica sobre cómo utilizar el código HTML p
 
 El siguiente código HTML muestra la estructura básica del slider:
 
+```html
 <div class="container">
   <div class="slider-container">
     <div class="slider-wrapper">
@@ -22,3 +23,4 @@ El siguiente código HTML muestra la estructura básica del slider:
     <div class="pagination"></div>
   </div>
 </div>
+```
