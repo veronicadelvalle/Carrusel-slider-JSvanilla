@@ -1,6 +1,6 @@
 # Carrusel Slider 
 
-Este readme proporciona una guía básica sobre cómo utilizar el código HTML para implementar un slider (carrusel) en tu sitio web. El slider es una herramienta comúnmente utilizada para mostrar múltiples elementos de contenido, como imágenes o banners, de manera interactiva y visualmente atractiva. Aquí se describe la estructura básica del código HTML necesario para implementar el slider.
+
 
 ## Estructura Básica del Slider
 
@@ -56,7 +56,20 @@ en el archivo main.mjs importa la ruta donde se encuentra el archivo de la naveg
 </div>
 ```
 
-- Si deseas usar solo la paginación sin los botones de navegación, simplemente elimina la sección de botones de navegación en el código:
+## Paginación
+
+### Instrucciones:
+
+- Si deseas usar solo la paginación sin los botones de navegación, simplemente elimina la sección de botones de navegación en el código y utiliza los archivo:
+
+- pagination.mjs
+- variables.mjs
+
+en el archivo main.mjs importa la ruta donde se encuentra el archivo de la navegación.
+
+```js
+  import './src/js/pagination.mjs';
+```
 
 ```html
 <div class="container">
@@ -73,4 +86,9 @@ en el archivo main.mjs importa la ruta donde se encuentra el archivo de la naveg
 </div>
 ```
 
-- Si deseas usar tanto la navegación como la paginación, puedes mantener el código sin modificaciones.
+-De lo contrario deje la estructura basica y los archivos tal cual. El css puede ser modificado a su gusto solo se implemento un diseño basico para que el slider funcione.
+
+![html-5--v1](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/5044d51d-465a-4443-842d-aa97d2ae2289)
+
+
+
