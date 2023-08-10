@@ -1,8 +1,8 @@
-#Carrusel Slider 
+# Carrusel Slider 
 
 Este readme proporciona una guía básica sobre cómo utilizar el código HTML para implementar un slider (carrusel) en tu sitio web. El slider es una herramienta comúnmente utilizada para mostrar múltiples elementos de contenido, como imágenes o banners, de manera interactiva y visualmente atractiva. Aquí se describe la estructura básica del código HTML necesario para implementar el slider.
 
-##Estructura Básica del Slider
+## Estructura Básica del Slider
 
 El siguiente código HTML muestra la estructura básica del slider:
 
