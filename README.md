@@ -92,7 +92,7 @@ en el archivo main.mjs importa la ruta donde se encuentra el archivo de la naveg
 </div>
 ```
 
--De lo contrario deje la estructura basica y los archivos tal cual. El css puede ser modificado a su gusto solo se implemento un diseño basico para que el slider funcione.
+- De lo contrario deje la estructura basica y los archivos tal cual. El css puede ser modificado a su gusto solo se implemento un diseño basico para que el slider funcione.
 
 
 ## Tecnologías Utilizadas
