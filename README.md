@@ -25,4 +25,41 @@ El siguiente código HTML muestra la estructura básica del slider:
 </div>
 ```
 
--
+### Instrucciones:
+
+- Si deseas usar solo la navegación y no la paginación, simplemente elimina la sección de paginación en el código:
+
+```html
+<div class="container">
+  <div class="slider-container">
+    <div class="slider-wrapper">
+      <div class="slider"></div>
+      <div class="slider"></div>
+      <div class="slider"></div>
+    </div>
+
+    <!-- Botones de Navegación -->
+    <div class="btn-prev"></div>
+    <div class="btn-next"></div>
+  </div>
+</div>
+```
+
+- Si deseas usar solo la paginación sin los botones de navegación, simplemente elimina la sección de botones de navegación en el código:
+
+```html
+<div class="container">
+  <div class="slider-container">
+    <div class="slider-wrapper">
+      <div class="slider"></div>
+      <div class="slider"></div>
+      <div class="slider"></div>
+    </div>
+
+    <!-- Paginación -->
+    <div class="pagination"></div>
+  </div>
+</div>
+```
+
+- Si deseas usar tanto la navegación como la paginación, puedes mantener el código sin modificaciones.
