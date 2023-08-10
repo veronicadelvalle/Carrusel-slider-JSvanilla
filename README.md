@@ -34,10 +34,10 @@ Este Carrusel Slider es fácil de implementar en tu sitio web. Puedes elegir ent
 
 1. Para habilitar la navegación, asegúrate de incluir los archivos navigation.mjs y variables.mjs en tu proyecto.
 
-2. En el archivo main.mjs, importa el archivo de navegación:
+2. En el archivo main.js, importa el archivo de navegación:
 
 ``` js
-  import './src/js/navigation.mjs';
+  import './src/js/navigation.js';
 ```
 
 ## Uso de Paginación
@@ -48,7 +48,7 @@ Este Carrusel Slider es fácil de implementar en tu sitio web. Puedes elegir ent
 
 
 ``` js
-  import './src/js/pagination.mjs';
+  import './src/js/pagination.js';
 ```
 
 ## Personalización

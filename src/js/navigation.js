@@ -1,5 +1,5 @@
-import variables from "./variable.mjs";
-import {updatePagination} from "./pagination.mjs";
+import variables from "./variable.js";
+import {updatePagination} from "./pagination.js";
 
 variables.image = variables.slider.children.length;
 

@@ -1,4 +1,4 @@
-import variables from "./variable.mjs";
+import variables from "./variable.js";
 
 const pagination = () => {
   const paginationElement = document.querySelector('.pagination');

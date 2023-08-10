@@ -1,2 +1,2 @@
-import './src/js/pagination.mjs';
-import './src/js/navigation.mjs';
+import './src/js/pagination.js';
+import './src/js/navigation.js';
