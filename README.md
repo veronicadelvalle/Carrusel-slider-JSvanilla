@@ -2,7 +2,7 @@
 
 Este proyecto presenta un slider interactivo que permite mostrar contenido de manera atractiva y dinámica en tu sitio web. El slider ha sido desarrollado utilizando tecnologías clave como HTML, CSS y JavaScript modularizado.
 
-## Descripción
+### Descripción
 
 El slider es una herramienta esencial para exhibir contenido visual de manera interactiva. Con este proyecto, puedes crear un slider personalizable y adaptable para resaltar tu contenido de manera efectiva.
 
@@ -10,12 +10,7 @@ El slider es una herramienta esencial para exhibir contenido visual de manera in
 
 El slider ha sido construido utilizando las siguientes tecnologías:
 
-- ![html-5--v1](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/4d1c653a-1d4b-4f07-9479-d4e03fbffd86)
-  
-- ![css3](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/687eab3e-adf9-4916-a6e3-916a73059d9b)
-
-- ![javascript--v1](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/b64e9b85-0c13-4383-ac7e-ad89c0acd799)
-
+- ![html-5--v1](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/4d1c653a-1d4b-4f07-9479-d4e03fbffd86) ![css3](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/687eab3e-adf9-4916-a6e3-916a73059d9b) ![javascript--v1](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/b64e9b85-0c13-4383-ac7e-ad89c0acd799)
 
 ## Estructura Básica del Slider
 
