@@ -1,5 +1,7 @@
 # Carrusel Slider 
 
+![Muestra de slider](./public/tommy!.png)
+
 Este proyecto presenta un slider interactivo que permite mostrar contenido de manera atractiva y dinámica en tu sitio web. El slider ha sido desarrollado utilizando tecnologías clave como HTML, CSS y JavaScript modularizado.
 
 ### Descripción
