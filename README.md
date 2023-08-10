@@ -20,6 +20,7 @@ Este Carrusel Slider es fácil de implementar en tu sitio web. Puedes elegir ent
 <div class="container">
   <div class="slider-container">
     <div class="slider-wrapper">
+      <!-- La cantidad de slider dependera de la cantidad de img quieras mostrar -->
       <div class="slider"></div>
       <div class="slider"></div>
       <div class="slider"></div>
