@@ -29,12 +29,13 @@ El siguiente código HTML muestra la estructura básica del slider:
 
 ### Instrucciones:
 
-Si deseas usar solo la navegación y no la paginación, simplemente elimina la sección de paginación en el código y utiliza el archivo:
+Si deseas usar solo la navegación y no la paginación, simplemente elimina la sección de paginación en el código y utiliza los archivo:
 
 - navegation.mjs
 - variables.mjs
 
-E importa en el archivo main:
+en el archivo main.mjs importa la ruta donde se encuentra el archivo de la navegación.
+
 ```js
   import './src/js/navigation.mjs';
 ```
